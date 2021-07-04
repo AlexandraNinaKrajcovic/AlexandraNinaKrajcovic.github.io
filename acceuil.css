@@ -79,7 +79,7 @@
 }
 .page .fonctionnement .fonctionnement_bloc .bloc .transformation1, .page .fonctionnement .fonctionnement_bloc .bloc .transformation2, .page .fonctionnement .fonctionnement_bloc .bloc .transformation3 {
   border: 1px #9356dc solid;
-  border-radius: 50%;
+  border-radius: 20px;
   background: #9356dc;
   width: 50px;
   height: 20px;
